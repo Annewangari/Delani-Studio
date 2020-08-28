@@ -1,3 +1,6 @@
+body{
+    font-family: 'Arima Madurai', cursive;
+ }
 .landing{
     background-image: url('../images/h_img.jpg');
     background-size: cover;
@@ -32,5 +35,5 @@ h2{
         height: 250px;
         text-align: center;
         color: white;
-        padding: 100px;
+        padding: 80px;
     } 

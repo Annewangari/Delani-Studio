@@ -37,3 +37,13 @@ h2{
         color: white;
         padding: 80px;
     } 
+    .what-we-do{
+        text-align: center;
+        height: 250px;
+    }
+    .col-space{
+        margin-top:20px;
+        margin-bottom:20px;
+    
+    
+    }

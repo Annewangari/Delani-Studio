@@ -19,3 +19,10 @@ h1{
 .landing img:last-child{
     padding: 120px;
 }
+h2{
+    text-align: center;
+    }
+.container-about{
+        text-align: center;
+        
+    }

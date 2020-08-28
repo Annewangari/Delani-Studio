@@ -8,3 +8,14 @@
     padding:200px; 
     color: white;
 }
+p{
+    text-align: center;
+}
+h1{
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
+.landing img:last-child{
+    padding: 120px;
+}

@@ -1,19 +1,10 @@
-$(document).ready(function () {
-    $("#design-pic").click(function () {
-        $(".design-a").hide(1500).toggle();
-        $("design-pic").slideUp();
-
+$(document).ready(function(){
+    $("#development-image").click(function(){
+      $("#development-image").slideDown('1500').hide('1000');
+      $(".development").show('1500');
     });
-    $(".design-a").click(function () {
-        $("#design-pic").slideDown();
-        $(".design-a").hide();
-    })
-    $("#development-image").click(function () {
-        $(".developlement").hide(1500).toggle();
-        $("#development-image").slideUp();
+    $(".development").click(function(){
+      $(".development").slideUp('1500');
+      $("#development-image").slideDown('1500');
     });
-    $(".developlement").click(function () {
-        $("#development-image").slideDown();
-        $(".developlement").hide();
-    })
-})
+  });

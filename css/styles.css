@@ -45,10 +45,21 @@ h2{
         margin-top:20px;
         margin-bottom:20px;
     }
-    
+.portfolio{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        margin-left:18%;
+        margin-right: 16%;
+      }
+      .portfolio h2{
+        text-align: center;
+        padding-top:40px;
+        font-family: 'Gabriela', serif;
+      }
 .project{
-        width: 320px;
-        height: 270px;
+        width: 200px;
+        height: 160px;
         background-color:white;
         z-index: 1;
         opacity: 0.2;
@@ -59,8 +70,8 @@ h2{
         font-size: 20px;
         }
 .project2{
-        width: 320px;
-        height: 270px;
+        width: 200px;
+        height: 160px;
         background-color:white;
         z-index: 1;
         opacity: 0.6;
@@ -71,8 +82,8 @@ h2{
         font-size: 20px;
         }
 .project3{
-        width: 320px;
-        height: 270px;
+        width: 200px;
+        height: 160px;
         background-color:white;
         z-index: 1;
         opacity: 0.4;
@@ -83,8 +94,8 @@ h2{
         font-size: 20px;
         }
 .project4{
-        width: 320px;
-        height: 270px;
+        width: 200px;
+        height: 160px;
         background-color:white;
         z-index: 1;
         opacity: 0.5;
@@ -95,8 +106,8 @@ h2{
         font-size: 20px;
         }
 .project5{
-        width: 320px;
-        height: 270px;
+        width: 200px;
+        height: 160px;
         background-color:white;
         z-index: 1;
         opacity: 0.5;
@@ -107,8 +118,8 @@ h2{
         font-size: 20px;
         }
 .project6{
-         width: 320px;
-        height: 270px;
+         width: 200px;
+        height: 160px;
         background-color:white;
         z-index: 1;
         opacity: 0.5;
@@ -119,8 +130,8 @@ h2{
         font-size: 20px;
         }
 .project7{
-        width: 320px;
-        height: 270px;
+        width: 200px;
+        height: 160px;
         background-color:white;
         z-index: 1;
         opacity: 0.5;
@@ -131,8 +142,8 @@ h2{
         font-size: 20px;
         }
 .project8{
-        width: 320px;
-        height: 270px;
+        width: 200px;
+        height: 160px;
         background-color:white;
         z-index: 1;
         opacity: 0.5;
@@ -148,7 +159,7 @@ h2{
 #p1 {
     margin-top: 30%;
     font-weight: bold;
-    font-size: x-large;
+    font-size: large;
     font-style: initial;
     color: solid black;
      }   

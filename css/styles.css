@@ -46,16 +46,14 @@ h2{
         margin-bottom:20px;
     }
 .portfolio{
-        display: flex;
         flex-wrap: wrap;
         align-items: center;
         margin-left:18%;
         margin-right: 16%;
-      }
-      .portfolio h2{
         text-align: center;
-        padding-top:40px;
-        font-family: 'Gabriela', serif;
+      }
+     h3{
+        text-align: center; 
       }
 .project{
         width: 200px;
@@ -210,7 +208,9 @@ h2{
        footer{
         text-align: center;
         padding-top: 30px;
+        width: 100%;
       }
       footer p{
         margin-top: 10px;
       }
+      

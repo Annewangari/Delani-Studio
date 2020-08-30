@@ -32,10 +32,10 @@ h2{
  * .services{
         background-image: url('../images/s_image.jpg');
         background-size: cover;
-        height: 250px;
+        height: 350px;
         text-align: center;
         color: white;
-        padding: 80px;
+        padding: 100px;
     } 
     .what-we-do{
         text-align: center;
@@ -44,6 +44,5 @@ h2{
     .col-space{
         margin-top:20px;
         margin-bottom:20px;
-    
-    
     }
+    

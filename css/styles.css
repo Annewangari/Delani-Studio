@@ -151,5 +151,44 @@ h2{
     font-size: x-large;
     font-style: initial;
     color: solid black;
-     }    
-     
+     } 
+     .contant{
+        background-image: url('../images/c_image.jpg');
+        background-size: cover;
+        height:500px;
+        width: 100%;
+    }   
+    #transparent {
+        background-color: transparent;
+    }
+    .contact{
+        background-image: url('../images/c_image.jpg');
+        background-size: cover;
+        height:500px;
+        width: 100%;
+    }
+    #transparent {
+        background-color: transparent;
+    }
+    textarea {
+        width: 100%;
+        height: 200px;
+        color: white;
+        padding: 12px; 
+        border: 1px solid #ccc; 
+        border-radius: 4px;
+        box-sizing: border-box; 
+        margin-top: 6px; 
+        margin-bottom: 16px;
+        resize: vertical ;
+       }
+     #jambo ::placeholder {
+        color: white;
+    }
+    #jambo input{
+        color: white;
+        background-color: transparent;
+       }
+       .icon{
+           padding: 20px;
+       } 

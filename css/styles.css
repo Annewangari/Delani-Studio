@@ -151,21 +151,25 @@ h2{
     font-size: x-large;
     font-style: initial;
     color: solid black;
-     } 
-     .contant{
-        background-image: url('../images/c_image.jpg');
-        background-size: cover;
-        height:500px;
-        width: 100%;
-    }   
+     }   
     #transparent {
         background-color: transparent;
     }
     .contact{
         background-image: url('../images/c_image.jpg');
         background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
         height:500px;
         width: 100%;
+        color: white;
+    }
+    .contact h2{
+        text-align: center;
+        margin-top: 20px;
+        padding-top: 30px;
+        padding-bottom: 10px;
+        font-family: 'Gabriela', serif;
     }
     #transparent {
         background-color: transparent;
